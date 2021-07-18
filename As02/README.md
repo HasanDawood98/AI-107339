@@ -1,4 +1,4 @@
-# AI-107338 Summer 2021 : Assignment 02 Repository #
+# AI-107338 Summer 2021 : Assignment 02 Folder #
 
 ### PROJECT MEMBERS ###
 StdID | Name
