@@ -9,4 +9,3 @@ StdID | Name
 
 ## Description ##
 <p> This folder contains assignment03 submitted to AI-107338. </p>
-![score](https://user-images.githubusercontent.com/38988469/126225847-e8631f29-2485-46fd-997f-800d45124409.png)
