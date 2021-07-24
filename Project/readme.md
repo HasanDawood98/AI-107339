@@ -82,7 +82,16 @@ print  Standard Deviation
 ### Accuracy Results We Acheived From Above Mentioned Models ####
 
 #### Linear Classifiers(LR) ####
+
+![LinearClassification_Score](https://user-images.githubusercontent.com/38988469/126864543-a16fb3ba-abf1-4ce7-a916-c5b3ddbd3541.PNG)
+
+
 #### KNN ####
+
+![knn](https://user-images.githubusercontent.com/38988469/126864553-b16db85e-d278-4156-943e-73d21085c94c.png)
+
+
 #### SVM ####
 
+![SVM_Score](https://user-images.githubusercontent.com/38988469/126864559-f39b6cda-5384-4390-9c07-e9ba0a9a260b.PNG)
 
