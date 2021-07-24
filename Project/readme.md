@@ -64,10 +64,20 @@ The procedure has a single parameter called k that refers to the number of group
  
 ##### Algo we used for K-fold #####
 model-name = ModelFunctionScikit() 
-scores = cross_val_score(Mul, X_train, Y_train, cv=10, scoring = "accuracy") 
+
+
+scores = cross_val_score(Mul, X_train, Y_train, cv=10, scoring = "accuracy")
+
+
 print  Scores
+
+
 print  Mean
+
+
 print  Standard Deviation
+
+
 
 ### Accuracy Results We Acheived From Above Mentioned Models ####
 
