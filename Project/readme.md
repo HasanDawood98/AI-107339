@@ -1,6 +1,6 @@
 # AI-107338 Summer 2021  # 
 # Final Ai-Project-Repository #
-## Titanic - Machine Learning from Disaster  ##
+## Project Name : [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ### PROJECT MEMBERS ###
 StdID | Name
