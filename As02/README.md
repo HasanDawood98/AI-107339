@@ -17,4 +17,5 @@ In this task,
 * Submit screenshot of Submission score on github
 ## Submission Score ##
 
-![image](https://user-images.githubusercontent.com/57304670/126052370-7cc67e74-c838-4520-8c84-f705ea7a0153.png)
+![as2](https://user-images.githubusercontent.com/38988469/126865760-c5649662-b9f2-4a3f-8021-74f9ceec481b.png)
+
