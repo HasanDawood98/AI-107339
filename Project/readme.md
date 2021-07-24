@@ -102,6 +102,29 @@ print  Standard Deviation
 
 3. In our scenario the best model which is most accurate among other two is **Linear classifier(LR)** .
 
+
+#### Libraries Used ####
+[numpy](https://numpy.org/)
+
+
+[regular-expression](https://docs.python.org/3/library/re.html)
+
+
+[pandas](https://pandas.pydata.org/)
+
+
+[cross-val](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
+
+
+[svm](http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
+
+
+[knn](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+
+
+[lc(lr)](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+
 #### Sources ####
 [link-1](https://genomicsclass.github.io/book/pages/crossvalidation.html)
 
