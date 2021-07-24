@@ -1,5 +1,5 @@
 # AI-107338 Summer 2021:Course Repository #
-## Project Name : [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
@@ -10,4 +10,4 @@ StdID | Name
 ## Description ##
 This repository contains assignments and project submitted to AI course offered in Summer 2021 at Pafkiet.
 
-**members of this project repository are from two different class id's - 10338 and 10339**
+**Members of this project repository are from two different class id's - 10338 and 10339**
