@@ -95,6 +95,13 @@ print  Standard Deviation
 
 ![SVM_Score](https://user-images.githubusercontent.com/38988469/126864559-f39b6cda-5384-4390-9c07-e9ba0a9a260b.PNG)
 
+### Conclusions ###
+1. feature engineering and feature selection has a huge influence in determining the accuracy of models.Simply delteting the columns adversily affects the accuracy of models in order to combact this we convert the features into numeric and those features which are alfa numeric or categorical like **age** and **cabin** etc we make groups of them on the basis of similarity and other common factors.
+
+2. In order to achieve best accuracy we have apply cross-validation if we simply training data on whole test data it is simply cant unpredict unknown data in future effectivley its like preparing for exam with known questions of exam.
+
+3. In our scenario the best model which is most accurate among other two is **Linear classifier(LR)** .
+
 #### Sources ####
 [link-1](https://genomicsclass.github.io/book/pages/crossvalidation.html)
 
