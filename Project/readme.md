@@ -48,5 +48,31 @@ The algorithm is versatile. It can be used for classification, regression, and s
 #### Disadvantages ####
 The algorithm gets significantly slower as the number of examples and/or predictors/independent variables increase.
 
+** In order to achieve better accuracy and cross check our parameters and model we implement cross validation **
+### Cross-validation ###
+Here we describe cross-validation: one of the fundamental methods in machine learning for method assessment and picking parameters in a prediction or machine learning task. Suppose we have a set of observations with many features and each observation is associated with a label. We will call this set our training data. Our task is to predict the label of any new samples by learning patterns from the training data. For a concrete example, let’s consider gene expression values, where each gene acts as a feature. We will be given a new set of unlabeled data (the test data) with the task of predicting the tissue type of the new samples.
+
+If we choose a machine learning algorithm with a tunable parameter, we have to come up with a strategy for picking an optimal value for this parameter. We could try some values, and then just choose the one which performs the best on our training data, in terms of the number of errors the algorithm would make if we apply it to the samples we have been given for training. However, we have seen how this leads to over-fitting.
+
+** we are using K-fold **
+
+#### K-Fold ####
+
+K-fold cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
+
+The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation. When a specific value for k is chosen, it may be used in place of k in the reference to the model, such as k=10 becoming 10-fold cross-validation.
+ 
+##### Algo we used for K-fold #####
+model-name = ModelFunctionScikit() 
+scores = cross_val_score(Mul, X_train, Y_train, cv=10, scoring = "accuracy") 
+print  Scores
+print  Mean
+print  Standard Deviation
+
+### Accuracy Results We Acheived From Above Mentioned Models ####
+
+#### Linear Classifiers(LR) ####
+#### KNN ####
+#### SVM ####
 
 
