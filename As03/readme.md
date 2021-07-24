@@ -29,4 +29,5 @@ In this task,
 ![score](https://user-images.githubusercontent.com/38988469/126226170-9a657280-efc4-47b6-a454-060a1d43a69e.png)
 
 #### Libraries Used ####
-[pandas] (https://pandas.pydata.org/)
+[pandas](https://pandas.pydata.org/)
+[naive-bayes](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
