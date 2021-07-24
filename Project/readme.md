@@ -11,8 +11,13 @@ StdID | Name
 
 ## Description ##
 In this phase we are expolring three new models to achieve better accuracy and get familiar with them.
+We have use these following 3 techniques:
 
-### 1. SVM ###
+1. SVM
+2. Linear Regression
+3. KNN
+
+## 1. SVM ##
 Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.
 
 #### The advantages of support vector machines are: ####
@@ -31,13 +36,13 @@ If the number of features is much greater than the number of samples, avoid over
 
 SVMs do not directly provide probability estimates, these are calculated using an expensive five-fold cross-validation (see Scores and probabilities, below).
 
-### 2. Linear  Classifiers(LR) ###
+## 2. Linear  Classifiers(LR) ##
 Linear classifiers classify data into labels based on a linear combination of input features. Therefore, these classifiers separate data using a line or plane or a hyperplane (a plane in more than 2 dimensions). They can only be used to classify data that is linearly separable. They can be modified to classify non-linearly separable data
 #### Logistic Regression ####
 In Logistic regression, we take weighted linear combination of input features and pass it through a sigmoid function which outputs a number between 1 and 0. Unlike perceptron, which just tells us which side of the plane the point lies on, logistic regression gives a probability of a point lying on a particular side of the plane. The probability of classification will be very close to 1 or 0 as the point goes far away from the plane. The probability of classification of points very close to the plane is close to 0.5
 
 
-### 3. KNN ###
+## 3. KNN ##
 The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other.
 * Birds of a feather flock together. *
 
