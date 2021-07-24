@@ -1,5 +1,5 @@
 # AI-107338 Summer 2021:Course Repository #
-
+## Project Name : [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
