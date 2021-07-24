@@ -95,3 +95,9 @@ print  Standard Deviation
 
 ![SVM_Score](https://user-images.githubusercontent.com/38988469/126864559-f39b6cda-5384-4390-9c07-e9ba0a9a260b.PNG)
 
+#### Sources ####
+[link-1](https://genomicsclass.github.io/book/pages/crossvalidation.html)
+[link-2](http://scikit-learn.org/stable/modules/svm.html)
+[link-3](https://machinelearningmastery.com/k-fold-cross-validation/)
+[link-4](https://sites.google.com/site/machinelearningnotebook2/classification/binary-classification/linear-classifiers)
+[link-5](https://www.saedsayad.com/k_nearest_neighbors.html)
