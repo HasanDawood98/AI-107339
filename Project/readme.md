@@ -9,7 +9,7 @@ StdID | Name
 62886 | Hasan Dawood (339)
 64290 | Ubaid Ullah (339)
 
-## Description ##
+## Approach ##
 In this phase we are expolring three new models to achieve better accuracy and get familiar with them.
 We have use these following 3 techniques:
 
@@ -91,16 +91,16 @@ print  Standard Deviation
 ![LinearClassification_Score](https://user-images.githubusercontent.com/38988469/126864543-a16fb3ba-abf1-4ce7-a916-c5b3ddbd3541.PNG)
 
 
-#### KNN ####
+### KNN ###
 
 ![knn](https://user-images.githubusercontent.com/38988469/126864553-b16db85e-d278-4156-943e-73d21085c94c.png)
 
 
-#### SVM ####
+### SVM ###
 
 ![SVM_Score](https://user-images.githubusercontent.com/38988469/126864559-f39b6cda-5384-4390-9c07-e9ba0a9a260b.PNG)
 
-### Conclusions ###
+## Conclusions ##
 1. feature engineering and feature selection has a huge influence in determining the accuracy of models.Simply delteting the columns adversily affects the accuracy of models in order to combact this we convert the features into numeric and those features which are alfa numeric or categorical like **age** and **cabin** etc we make groups of them on the basis of similarity and other common factors.
 
 2. In order to achieve best accuracy we have apply cross-validation if we simply training data on whole test data it is simply cant unpredict unknown data in future effectivley its like preparing for exam with known questions of exam.
@@ -111,24 +111,17 @@ print  Standard Deviation
 #### Libraries Used ####
 [numpy](https://numpy.org/)
 
-
 [regular-expression](https://docs.python.org/3/library/re.html)
-
 
 [pandas](https://pandas.pydata.org/)
 
-
 [cross-val](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
-
 
 [svm](http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
 
-
 [knn](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
-
 [lc(lr)](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-
 
 #### Sources ####
 [link-1](https://genomicsclass.github.io/book/pages/crossvalidation.html)
