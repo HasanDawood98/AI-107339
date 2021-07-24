@@ -9,3 +9,5 @@ StdID | Name
 
 ## Description ##
 This repository contains assignments and project submitted to AI course offered in Summer 2021 at Pafkiet.
+
+**members of this project repository are from two different class id's - 10338 and 10339**
